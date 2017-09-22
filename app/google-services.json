@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "893332377545",
+    "firebase_url": "https://appsayit.firebaseio.com",
+    "project_id": "appsayit",
+    "storage_bucket": "appsayit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893332377545:android:40cb1c865e9765da",
+        "android_client_info": {
+          "package_name": "com.example.testguys.sayit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893332377545-rsejbau7b0pcrsphuk42s8jdeagga9bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9gsxH_282XBl6uzYid28Lsc36VJyvi4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
